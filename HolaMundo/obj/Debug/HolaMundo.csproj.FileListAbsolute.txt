@@ -1,0 +1,7 @@
+D:\Desktop\I semestre 2022\Calidad de Software\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+D:\Desktop\I semestre 2022\Calidad de Software\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+D:\Desktop\I semestre 2022\Calidad de Software\C#\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+D:\Desktop\I semestre 2022\Calidad de Software\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+D:\Desktop\I semestre 2022\Calidad de Software\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+D:\Desktop\I semestre 2022\Calidad de Software\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+D:\Desktop\I semestre 2022\Calidad de Software\C#\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
